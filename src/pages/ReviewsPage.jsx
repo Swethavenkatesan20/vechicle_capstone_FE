@@ -1,4 +1,4 @@
-// src/pages/ReviewsPage.jsx
+
 import React, { useState, useEffect } from 'react';
 import ReviewForm from '../components/Reviews/ReviewForm';
 import ReviewList from '../components/Reviews/ReviewList';
