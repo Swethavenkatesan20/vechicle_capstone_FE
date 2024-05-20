@@ -1,7 +1,7 @@
 import axios from "axios";
 
 //give base URL
-const baseURL='http://localhost:3300/api';
+const baseURL='https://vechicle-capstone-be.onrender.com/api';
 
 const instance =axios.create({
     baseURL: baseURL,
