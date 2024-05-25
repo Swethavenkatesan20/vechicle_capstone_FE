@@ -25,7 +25,7 @@ const Dashboard = () => {
       <div>
         <Outlet/>
       </div>
-      <marquee className="alert alert-success fs-1 mt-3" role="alert" behavior="scroll" direction="left">10% Discount on any vechicle services. 
+      <marquee className="alert alert-success fs-1 mt-3" role="alert" behavior="scroll" direction="left">10% Discount on any vehicle services. 
       Offer ends soon</marquee>
       
     </div>
